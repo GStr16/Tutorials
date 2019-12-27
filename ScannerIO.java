@@ -14,7 +14,7 @@ public class ScannerIO {
         System.out.println("Your age is "+age);// Output the age variable
 
         System.out.print("Enter you height: ");// Output messages
-        float height = sc.nextFloat(); // Declare the float variable
+        float height = sc.nextFloat(); // Declare the Float variable
         System.out.println("Your height is "+height); // Output the height variable
 
 
